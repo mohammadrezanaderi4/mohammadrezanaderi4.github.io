@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * 2021–   Co-Founder and Vice President of Engineering, Kanzova Construction, Isfahan, Iran
-<bn> Spearhead the application of AI technologies to revolutionize interior and exterior
+<bn\> Spearhead the application of AI technologies to revolutionize interior and exterior
 design for apartments and café-restaurants, ensuring innovative, functional, and
 aesthetically appealing results
 
