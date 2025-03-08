@@ -42,6 +42,6 @@ Shiraz University of Technology
 
 Languages
 ======
-English &emsp; IELTS Academic Overall: 7.5
-Persian &emsp; Native
+* English &emsp; IELTS Academic Overall: 7.5
+* Persian &emsp; Native
  
