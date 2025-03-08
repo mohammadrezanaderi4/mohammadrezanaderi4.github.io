@@ -11,50 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2019-22 M.Sc., Electrical Engineering, Isfahan University of Technology
+* 2015-19 B.Sc. Electrical Engineering, Shiraz University of Technology
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2021–   Co-Founder and Vice President of Engineering, Kanzova Construction, Isfahan, Iran
+<bn> Spearhead the application of AI technologies to revolutionize interior and exterior
+design for apartments and café-restaurants, ensuring innovative, functional, and
+aesthetically appealing results
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020-24   Research Assistant, HADIP Lab, Isfahan University of Technology
+  * Advisor: Professor Shadrokh Samavi
+  * Research Topic: Deep Generative Models and Their Application to Various Computer Vision Tasks
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python Proficient in using PyTorch and TensorFlow for deep learning and AI applications
+* Matlab
+* C
+* C++
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
+Isfahan University of Technology
+* 2020   Assistant Instructor, Computer Programming
+
+Shiraz University of Technology
+* 2016   Assistant Instructor, Signal and Systems
+
+Languages
+======
+English   IELTS Academic Overall: 7.5
+Persian   Native
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
