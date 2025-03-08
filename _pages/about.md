@@ -12,9 +12,9 @@ I earned my Master of Science from Isfahan University of Technology under the su
 Research Interests
 ======
 My research focuses on Deep Generative Models and their application to Computer vision tasks:
-<br> - **Exploring New Generative Architectures:** Investigating new theoretical possibilities to develop more efficient and effective generative models.
-<br> - **Expanding Original Ideas to the Medical Domain:** Examining innovative deep learning methodologies in Biomedical Image Processing to identify and address their limitations in this domain.
-<br> - **Exploring New Image Generation Methods:** Studying deep generative models such as diffusion models, flow matching, and autoregressive models to propose new training procedures, loss functions, and architectures.
-<br> - **Image Analysis Using Recently Proposed Methods:** Extending existing methodologies to tasks such as segmentation, retargeting, inpainting, and super-resolution.
+- **Exploring New Generative Architectures:** Investigating new theoretical possibilities to develop more efficient and effective generative models.
+- **Expanding Original Ideas to the Medical Domain:** Examining innovative deep learning methodologies in Biomedical Image Processing to identify and address their limitations in this domain.
+- **Exploring New Image Generation Methods:** Studying deep generative models such as diffusion models, flow matching, and autoregressive models to propose new training procedures, loss functions, and architectures.
+- **Image Analysis Using Recently Proposed Methods:** Extending existing methodologies to tasks such as segmentation, retargeting, inpainting, and super-resolution.
 <br>
 <br>I’m open to collaboration on relevant topics.
