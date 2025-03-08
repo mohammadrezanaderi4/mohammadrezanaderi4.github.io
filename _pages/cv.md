@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* 2019-22 M.Sc., Electrical Engineering, Isfahan University of Technology
-* 2015-19 B.Sc. Electrical Engineering, Shiraz University of Technology
+* 2019-22 &emsp; M.Sc., Electrical Engineering, Isfahan University of Technology
+* 2015-19 &emsp; B.Sc. Electrical Engineering, Shiraz University of Technology
 
 
 Work experience
 ======
-* 2021–   Co-Founder and Vice President of Engineering, Kanzova Construction, Isfahan, Iran
+* 2021– &emsp; Co-Founder and Vice President of Engineering, Kanzova Construction, Isfahan, Iran
   * Spearhead the application of AI technologies to revolutionize interior and exterior design for apartments and café-restaurants, ensuring innovative, functional, and aesthetically appealing results     
 
 * 2020-24   Research Assistant, HADIP Lab, Isfahan University of Technology
