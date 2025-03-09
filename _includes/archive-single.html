@@ -12,8 +12,16 @@
   {% assign title = post.title %}
 {% endif %}
 
+.padding
+{
+width:400px;
+height:400px;
+padding: 75px 50px;
+border: 5px solid yellow;
+}
+
 {% if post.image %}
-  <img align="left" width="400" src="{{ post.image }}">
+  <img align="left" width="400" src="{{ post.image }}" class="padding"> 
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
