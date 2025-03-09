@@ -58,17 +58,17 @@
     {% endif %}
     
     {% if post.citation and post.paperurl and post.slidesurl %}
-      <p><br /><br />Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">DOI</a> | <a href="{{ post.slidesurl }}">PDF</a><br /></p>
+      <p><br /><br />Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">DOI</a> | <a href="{{ post.slidesurl }}">PDF</a><br /><br /><br /></p>
     {% elsif post.citation and post.paperurl %}
-      <p><br /><br />Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">DOI</a><br /></p>
+      <p><br /><br />Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">DOI</a><br /><br /><br /></p>
     {% elsif post.citation and post.slidesurl %}
-      <p><br /><br />Recommended citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}">PDF</a><br /></p>
+      <p><br /><br />Recommended citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}">PDF</a><br /><br /><br /></p>
     {% elsif post.citation %}
-      <p><br /><br />Recommended citation: {{ post.citation }}<br /></p>
+      <p><br /><br />Recommended citation: {{ post.citation }}<br /><br /><br /></p>
     {% elsif post.paperurl %}
-      <p><br /><br /><a href=" {{ post.paperurl }} ">DOI</a><br /></p>
+      <p><br /><br /><a href=" {{ post.paperurl }} ">DOI</a><br /><br /><br /></p>
     {% elsif post.slidesurl %}
-      <p><br /><br /><a href="{{ post.slidesurl }}">PDF</a><br /></p>
+      <p><br /><br /><a href="{{ post.slidesurl }}">PDF</a><br /><br /><br /></p>
     {% endif %}
 
   </article>
