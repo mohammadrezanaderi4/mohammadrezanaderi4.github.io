@@ -1,5 +1,21 @@
 {% include base_path %}
 
+<head>
+<style>
+.crop {
+    width: 200px;
+    height: 150px;
+    overflow: hidden;
+}
+
+.crop img {
+    width: 400px;
+    height: 300px;
+    margin: -75px 0 0 -100px;
+}
+</style>
+</head>
+
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
@@ -14,7 +30,9 @@
 
 
 {% if post.image %}
-  <img align="left" src="{{ post.image }}" style="object-fit: contain; height:200px; border: solid 2px DodgerBlue; padding-right: 20px; padding-bottom: 20px;"> 
+  <div class="crop">
+      <img align="left" src="{{ post.image }}" style="object-fit: contain; border: solid 2px DodgerBlue; padding-right: 20px; padding-bottom: 20px;"> 
+   </div>
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
