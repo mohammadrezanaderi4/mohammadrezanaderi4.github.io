@@ -1,0 +1,15 @@
+---
+image: '/Projects_image/pic04.jpg'
+title: "Aesthetic-aware image retargeting based on foreground–background separation and PSO optimization"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-03-19-content-aware-image-retargeting
+excerpt: '<br />'
+date: 2023-09-28
+venue: 'Multimedia Tools and Applications'
+slidesurl: 'https://arxiv.org/pdf/2209.04804'
+paperurl: 'https://doi.org/10.1007/s11042-023-16959-6'
+citation: 'Naderi, M.R., Givkashi, M.H., Karimi, N. et al. Aesthetic-aware image retargeting based on foreground–background separation and PSO optimization. Multimed Tools Appl 83, 34867–34886 (2024)'
+---
+
+Image retargeting aims at altering images’ size while preserving important content and minimizing noticeable distortions. The versatility of image retargeting is further highlighted, as it finds applications in various domains such as web design, mobile devices, and multimedia content adaptation. Previous image retargeting methods have employed various techniques such as seam carving, content-aware scaling, and energy-based approaches. However, these methods often produce outputs that suffer from noticeable artifacts, such as jagged edges or image distortions, which can degrade the overall visual quality. Additionally, a common characteristic of previous works is their attempt to retarget the background and foreground of the input image concurrently. While this approach aims to preserve the entire scene, it often leads to changes in the aspect ratios of individual objects within the image. As a result, the resized image may exhibit distorted proportions, affecting the content’s overall visual coherence and perception. The change in the aspect ratio is specifically not desirable for human objects. We propose a retargeting method that overcomes these problems. The proposed approach consists of the following steps. Firstly, an inpainting method uses the input image and the binary mask of foreground objects to produce a background image without any foreground objects. Secondly, the seam carving method resizes the background image to the target size. Then, a super-resolution method increases the input image quality, and we then extract the foreground objects. Finally, the retargeted background and the extracted super-resolution objects are fed into a particle swarm optimization algorithm (PSO). The PSO algorithm uses aesthetic quality assessment as its objective function to identify the best location and size for the objects to be placed in the background. We have demonstrated commendable performance compared to prevalent image retargeting methodologies by utilizing image quality assessment (QA) and aesthetic quality assessment (AQA) metrics. We conducted a comparative analysis of our proposed method in relation to other approaches, utilizing various QA and AQA methods. The proposed method has achieved improvement percentages of 16.92%, 7.28%, 20.75%, and 4.7% respectively using the Pool-3FC, NRIQA, MANIQA, and HeperIQA methods.
