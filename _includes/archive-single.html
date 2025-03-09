@@ -12,7 +12,7 @@
     
     img {
       width: 300px;
-      padding-bottom: 300px;
+      
     }
     
     .crop {
@@ -30,9 +30,7 @@
   <body>
     <div class="container">
       <div class="image">
-        <div class="crop">
-            <img align="left" src="{{ post.image }}" border: 2px solid black> 
-        </div>
+            <img align="left" src="{{ post.image }}" style="padding-bottom:150px;"> 
       </div>
       <div class="text">
         {% if post.header.teaser %}
