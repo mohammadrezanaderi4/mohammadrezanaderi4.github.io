@@ -1,10 +1,10 @@
 ---
-image: '/Projects_image/pic06.png'
+image: '/Projects_image/pic066.png'
 title: "Focal-UNet: UNet-like Focal Modulation for Medical Image Segmentation"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-01-01-Focal-Unet
-excerpt: '<br /><br /><br /><br /><br />'
+excerpt: '<br />'
 date: 2022-01-01
 venue: 'arXIv'
 slidesurl: 'https://arxiv.org/pdf/2212.09263'
