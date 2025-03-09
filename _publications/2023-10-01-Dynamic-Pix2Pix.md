@@ -1,10 +1,10 @@
 ---
-image: '/Projects_image/pic05.jpg'
+image: '/Projects_image/pic055.jpg'
 title: "Dynamic-Pix2Pix: Medical image segmentation by injecting noise to cGAN for modeling input and target domain joint distributions with limited training data"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-10-01-Dynamic-Pix2Pix
-excerpt: '<br /><br /><br /><br /><br />'
+excerpt: '<br />'
 date: 2023-10-01
 venue: 'Biomedical Signal Processing and Control'
 slidesurl: 'https://arxiv.org/pdf/2211.08570'
