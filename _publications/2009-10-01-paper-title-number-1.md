@@ -3,12 +3,11 @@ title: "SFI-Swin: symmetric face inpainting with swin transformer by distinctly 
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'The first two authors contributed equally.'
 date: 2024-07-04
 venue: 'Multimedia Tools and Applications'
 paperurl: 'https://doi.org/10.1007/s11042-024-19365-8'
 citation: 'Givkashi*, M., Naderi*, M., Karimi, N. et al. SFI-Swin: symmetric face inpainting with swin transformer by distinctly learning face components distributions. Multimed Tools Appl (2024)'
-Note: The first two authors contributed equally
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Image inpainting consists of filling holes or missing parts of an image. Inpainting face images with symmetric characteristics is more challenging than inpainting a natural scene. None of the powerful existing models can fill out the missing parts of an image while considering the symmetry and homogeneity of the picture. Moreover, the metrics that assess a repaired face image quality cannot measure the preservation of symmetry between the rebuilt and existing parts of a face. In this paper, we intend to solve the symmetry problem in the face inpainting task by using multiple discriminators that check each face organ’s reality separately and a transformer-based network. We also propose "symmetry concentration score" as a new metric for measuring the symmetry of a repaired face image. The quantitative and qualitative results show the superiority of our proposed method compared to some of the recently proposed algorithms in terms of the reality, symmetry, and homogeneity of the inpainted parts. 
