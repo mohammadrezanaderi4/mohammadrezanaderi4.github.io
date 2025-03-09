@@ -25,8 +25,8 @@
 
 {% if post.image %}
   <div class="crop">
-      <img align="left" src="{{ post.image }}" style="object-fit: contain; border: solid 2px DodgerBlue; padding-right: 20px; padding-bottom: 20px;"> 
-   </div>
+      <img align="left" src="{{ post.image }}" style="object-fit: contain; padding-right: 20px; padding-bottom: 20px;"> 
+  
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
@@ -72,4 +72,5 @@
    
 
   </article>
+     </div>
 </div>
