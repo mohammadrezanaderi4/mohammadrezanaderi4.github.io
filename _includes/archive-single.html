@@ -12,6 +12,7 @@
     
     img {
       max-width: 300px;
+      float:left
     }
     
     .crop {
@@ -23,12 +24,14 @@
     
     .text {
       padding-left: 20px;
+      padding-top: 20%;
+      float: left;
     }
   </style>
   <body>
     <div class="container">
       <div class="image">
-            <img src="{{ post.image }}"> 
+            <img align src="{{ post.image }}"> 
       </div>
       <div class="text">
         {% if post.header.teaser %}
