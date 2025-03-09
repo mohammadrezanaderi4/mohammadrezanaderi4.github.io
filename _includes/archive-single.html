@@ -11,8 +11,7 @@
     }
     
     img {
-      max-width: 100%;
-      max-height:100%;
+      max-width: 300px;
     }
     
     .crop {
@@ -23,14 +22,15 @@
     
     
     .text {
-      font-size: 20px;
       padding-left: 20px;
     }
   </style>
   <body>
     <div class="container">
-      <div class="crop">
-        <img align="left" src="{{ post.image }}"> 
+      <div class="image">
+         <div class="crop">
+            <img src="{{ post.image }}"> 
+         </div>
       </div>
       <div class="text">
         {% if post.header.teaser %}
