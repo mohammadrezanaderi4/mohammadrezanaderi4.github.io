@@ -3,8 +3,8 @@ image: '/Projects_image/pic04.jpg'
 title: "Aesthetic-aware image retargeting based on foreground–background separation and PSO optimization"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-03-19-content-aware-image-retargeting
-excerpt: '<br /><br /><br /><br />'
+permalink: /publication/2024-03-19-Aesthetic-aware-image-retargeting
+excerpt: '<br /><br /><br /><br /><br />'
 date: 2023-09-28
 venue: 'Multimedia Tools and Applications'
 slidesurl: 'https://arxiv.org/pdf/2209.04804'
