@@ -30,7 +30,9 @@
   <body>
     <div class="container">
       <div class="image">
-            <img align="left" src="{{ post.image }}" style="padding-bottom:150px;"> 
+        <div class="crop">
+            <img align="left" src="{{ post.image }}"> 
+        </div>
       </div>
       <div class="text">
         {% if post.header.teaser %}
@@ -73,6 +75,9 @@
       </div>
     </div>
   </body>
+  <br />
+  <br />
+  <br />
 </html>
 
 
