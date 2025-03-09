@@ -4,7 +4,7 @@ title: "Aesthetic-aware image retargeting based on foreground–background separ
 collection: publications
 category: manuscripts
 permalink: /publication/2024-03-19-content-aware-image-retargeting
-excerpt: '<br />'
+excerpt: '<br /><br />'
 date: 2023-09-28
 venue: 'Multimedia Tools and Applications'
 slidesurl: 'https://arxiv.org/pdf/2209.04804'
