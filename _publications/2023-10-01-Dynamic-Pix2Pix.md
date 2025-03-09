@@ -4,7 +4,7 @@ title: "Dynamic-Pix2Pix: Medical image segmentation by injecting noise to cGAN f
 collection: publications
 category: manuscripts
 permalink: /publication/2024-03-19-content-aware-image-retargeting
-excerpt: '<br /><br />'
+excerpt: '<br /><br /><br /><br />'
 date: 2023-10-01
 venue: 'Biomedical Signal Processing and Control'
 slidesurl: 'https://arxiv.org/pdf/2211.08570'
