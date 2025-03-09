@@ -4,7 +4,7 @@ title: "Supervised deep learning for content-aware image retargeting with Fourie
 collection: publications
 category: manuscripts
 permalink: /publication/2024-03-19-content-aware-image-retargeting
-excerpt: '<br /><br />'
+excerpt: '<br /><br /><br /><br />'
 date: 2024-03-19
 venue: 'Multimedia Tools and Applications'
 slidesurl: 'https://arxiv.org/pdf/2306.07383'
